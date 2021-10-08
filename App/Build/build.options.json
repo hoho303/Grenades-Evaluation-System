@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "\\Build\\sketch\\NemLuuDan.ino.cpp",
+  "builtInLibrariesFolders": "D:\\Program\\Arduino\\libraries",
+  "customBuildProperties": "build.path=C:\\Project\\Arduino\\NodeMCU\\NemLuuDan\\Build,build.warn_data_percentage=75,runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-3-20ed2b9,runtime.tools.xtensa-lx106-elf-gcc-2.5.0-3-20ed2b9.path=C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-3-20ed2b9,runtime.tools.esptool.path=C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\esptool\\2.5.0-3-20ed2b9,runtime.tools.esptool-2.5.0-3-20ed2b9.path=C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\esptool\\2.5.0-3-20ed2b9,runtime.tools.mkspiffs.path=C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\2.5.0-3-20ed2b9,runtime.tools.mkspiffs-2.5.0-3-20ed2b9.path=C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\2.5.0-3-20ed2b9",
+  "fqbn": "esp8266:esp8266:nodemcuv2:xtal=80,vt=flash,exception=enabled,eesz=4M,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200",
+  "hardwareFolders": "D:\\Program\\Arduino\\hardware,C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\ADMIN\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10807",
+  "sketchLocation": "c:\\Project\\Arduino\\NodeMCU\\NemLuuDan\\NemLuuDan.ino",
+  "toolsFolders": "D:\\Program\\Arduino\\tools-builder,D:\\Program\\Arduino\\hardware\\tools\\avr,C:\\Users\\ADMIN\\AppData\\Local\\Arduino15\\packages"
+}
